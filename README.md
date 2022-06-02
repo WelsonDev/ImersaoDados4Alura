@@ -15,7 +15,6 @@ Desafios desta aula
 
 
 
-
 Desafios desta 2 aula
 
     Criar uma escala de valores em milhões.
@@ -32,8 +31,7 @@ Desafios desta 2 aula
     Agrupar por mais de uma categoria e realizar as análises.
     Organize o colab para deixar com cara de projeto.
     
-    
-    Desafios desta aula
+ Desafios desta aula
 
 1 - Adicionar o valor "real" do m² do imóvel.
 
@@ -48,5 +46,14 @@ Desafios desta 2 aula
 6 - Criar um projeto com os resultados da Imersão e postar nas redes sociais mostrando o trabalho realizado. Lembre-se de marcar a @AluraOnline e utilizar as hashtags #ImersãoDados e #ImersãoDados4.
 Alguns lembretes e dicas
 
+Referencias:
+Base original
+https://www.kaggle.com/datasets/kaggleshashankk/house-price-data-of-sao-paulo
+
+Pandas
+https://pandas.pydata.org/
+
+Seaborn
+https://seaborn.pydata.org/
 
     
