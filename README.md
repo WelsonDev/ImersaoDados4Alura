@@ -56,4 +56,6 @@ https://pandas.pydata.org/
 Seaborn
 https://seaborn.pydata.org/
 
-    
+Site imersao
+https://www.alura.com.br/imersao-dados-4/aula01-colab-python-pandas
+   
