@@ -47,6 +47,7 @@ Desafios desta 2 aula
 Alguns lembretes e dicas
 
 Referencias:
+
 Base original
 https://www.kaggle.com/datasets/kaggleshashankk/house-price-data-of-sao-paulo
 
